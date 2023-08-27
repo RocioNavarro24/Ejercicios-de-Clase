@@ -1,0 +1,51 @@
+
+body{
+    background-color: rgb(238, 197, 130);
+}
+
+#cabecera{
+    background-color: aqua;
+    font-family:'Gill Sans', 'Gill Sans MT', cursive, 'Trebuchet MS', sans-serif;
+}
+
+#parraf{
+    background-color: #FF689D;
+}
+div{
+    background-color: chocolate;
+}
+
+#prueba{
+    background-color: greenyellow;
+}
+#tablapruebas{
+    border: 2px solid black;   
+}
+#up{
+    background-color: bisque;
+}
+
+#f1{
+    background-color: #FF689D;
+}
+
+#f2{
+    background-color: blue;
+}
+
+#f3{
+    background-color: palegreen;
+}
+thead tr{
+    
+    background-color: aqua;
+}
+tbody tr td{
+    border: 2px solid black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 5px;
+}
